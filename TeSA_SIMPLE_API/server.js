@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/hi', (req, res) => {
-  res.send('This is Software Enginnering!');
+  res.send('This is Software Enginnering - Java Specialisation!');
 });
 
 
